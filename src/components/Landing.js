@@ -3,8 +3,7 @@ import Parallax from "../Parallax";
 
 function Landing() {
   return (
-    <div className="container">
-      <h1>Jorge Lopez</h1>
+    <div>
       <Parallax
           paragraph="Duke it out with 4 of your friends or foes, in this turned based,tactical, and unpredictable game experience!"
           title="Welcome to Footballadamus!"

@@ -1,8 +1,10 @@
 import React from "react";
+
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Landing from "./components/Landing";
-// import Card from "./components/Card";
+import Projects from "./components/Projects";
+import Contact from "./components/Contact";
 
 function App() {
   return (
@@ -11,7 +13,8 @@ function App() {
       <Navbar />
       <Switch>
       <Route exact path="/" component={Landing}/>
-      {/* <Card /> */}
+      <Route exact path="/projects" component={Projects}/>
+      <Route exact path="/contact" component={Contact}/>
       </Switch>
     </div>
     </Router>

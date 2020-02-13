@@ -1,6 +1,6 @@
 import React from "react";
 
-function Card() {
+function Contact() {
   return (
     <div class="row">
     <div class="col s12 m6">
@@ -20,4 +20,4 @@ function Card() {
   );
 }
 
-export default Card;
+export default Contact;
