@@ -6,8 +6,8 @@ function Landing() {
     <div>
       <Parallax
           paragraph="Duke it out with 4 of your friends or foes, in this turned based,tactical, and unpredictable game experience!"
-          title="Welcome to Footballadamus!"
-          url="https://github.com/UlyssesFigueroa/Sandbox/blob/jorge/client/public/assets/images/theBoys.jpg?raw=truee"
+          title="Jorge Antonio Lopez"
+          url="https://scontent.fphx1-2.fna.fbcdn.net/v/t1.0-9/556280_419147001430778_2117318718_n.jpg?_nc_cat=100&_nc_ohc=QKfiUVoZ4vEAX8EVoBO&_nc_ht=scontent.fphx1-2.fna&oh=bdc5935885393403e7cd9a7569bacdeb&oe=5EF2F496"
         />
 
         <Parallax
