@@ -1,5 +1,5 @@
 import React from "react";
-import Parallax from "../Parallax";
+import Parallax from "../../Parallax";
 import "./Landing.css";
 
 function Landing() {
@@ -19,7 +19,7 @@ function Landing() {
 
       <Parallax
         paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dolor mi, aliquet ac tristique vel, molestie sed ex. Cras blandit ante urna, et aliquam augue tempus iaculis. Curabitur gravida ut magna ac mollis."
-        title="node.js"
+        title="Node.js"
         url="https://github.com/Jorgelopez5252/reactportfolio/blob/master/public/images/nodeJs.jpg?raw=true"
       />
 
