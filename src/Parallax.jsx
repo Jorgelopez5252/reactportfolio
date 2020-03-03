@@ -10,9 +10,8 @@ const welcomeStyle = {
 const pStyle = {
     textAlign: "center",
     fontFamily: 'Graduate',
-    fontSize: "15px"
+    fontSize: "20px"
   };
-
 
   
 
