@@ -23,7 +23,7 @@ export default class Projects extends Component {
           <div className="slider">
             <ul className="slides">
               <li>
-                <img src="https://cdn.spacetelescope.org/archives/images/wallpaper2/heic1509a.jpg" />
+                <img src="https://github.com/Jorgelopez5252/reactportfolio/blob/master/public/images/city2citygif.gif?raw=true" />
                 <div className="caption center-align">
                   <h3><a target="blank" href="https://jorgelopez5252.github.io/city2city/">City2City</a></h3>
                   <h5 className="light grey-text text-lighten-3">
@@ -32,7 +32,7 @@ export default class Projects extends Component {
                 </div>
               </li>
               <li>
-                <img src="https://images.pexels.com/photos/110854/pexels-photo-110854.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
+                <img src="https://github.com/Jorgelopez5252/reactportfolio/blob/master/public/images/tempusgif.gif?raw=true" />
                 <div className="caption center-align">
                   <h3><a target="blank" href="https://obscure-tor-81991.herokuapp.com/home">Tempus</a></h3>
                   <h5 className="light grey-text text-lighten-3">
@@ -41,7 +41,7 @@ export default class Projects extends Component {
                 </div>
               </li>
               <li>
-                <img src="https://inteng-storage.s3.amazonaws.com/img/iea/PrO3onAKOq/sizes/new-project-1_resize_md.jpg" />
+                <img src="https://github.com/Jorgelopez5252/reactportfolio/blob/master/public/images/notetakergif.gif?raw=true" />
                 <div className="caption center-align">
                   <h3><a target="blank" href="https://morning-fortress-81693.herokuapp.com/">Note Taker</a></h3>
                   <h5 className="light grey-text text-lighten-3">
@@ -72,3 +72,4 @@ export default class Projects extends Component {
     );
   }
 }
+

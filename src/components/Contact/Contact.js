@@ -11,7 +11,7 @@ function Contact() {
 
         <div class="col s6">
           
-        <img height="400" src="https://github.com/Jorgelopez5252/reactportfolio/blob/master/public/images/portphoto.jpeg?raw=true" alt="me"/>
+        <img height="450" src="https://github.com/Jorgelopez5252/reactportfolio/blob/master/public/images/portphoto.jpeg?raw=true" alt="me"/>
         </div>
 
         <div class="col s12">
