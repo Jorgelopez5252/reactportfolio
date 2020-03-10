@@ -1,5 +1,5 @@
 import React from "react";
-import Parallax from "../../Parallax";
+import Parallax from "../../Parallax/Parallax";
 import './Landing.css';
 
 function Landing() {
@@ -12,19 +12,19 @@ function Landing() {
       />
 
       <Parallax
-        paragraph="Proficient Skills"
+        paragraph="Proficient Skills-HTML5, CSS, Javascript, JQuery, Bootstrap,"
         title="Known Technologies"
-        url="https://github.com/Jorgelopez5252/reactportfolio/blob/master/public/images/trifecta.jpg?raw=true"
+        url="https://skywell.software/wp-content/uploads/2019/01/javascript-vs-html-vs-css-1024x683.jpg"
       />
 
       <Parallax
-        paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dolor mi, aliquet ac tristique vel, molestie sed ex. Cras blandit ante urna, et aliquam augue tempus iaculis. Curabitur gravida ut magna ac mollis."
+        paragraph=" Node Js, MySQL, MongoDB,."
         title="Node.js"
         url="https://github.com/Jorgelopez5252/reactportfolio/blob/master/public/images/nodeJs.jpg?raw=true"
       />
 
       <Parallax
-        paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dolor mi, aliquet ac tristique vel, molestie sed ex. Cras blandit ante urna, et aliquam augue tempus iaculis. Curabitur gravida ut magna ac mollis."
+        paragraph="JSX, Rendering Elements, Great Understanding of Components and Props as well as State and hooks ."
         title="React.js"
         url="https://github.com/Jorgelopez5252/reactportfolio/blob/master/public/images/reactWhite.png?raw=true"
       />

@@ -1,5 +1,6 @@
 import React, {useState, useEffect} from "react";
 import M from 'materialize-css';
+import "./Parallax.css"
 
 const welcomeStyle = {
   fontFamily: 'Graduate',
@@ -9,10 +10,11 @@ const welcomeStyle = {
 
 const pStyle = {
     textAlign: "center",
-    fontFamily: 'Graduate',
+    fontfamily: 'Spartan',
     fontSize: "20px"
   };
 
+  
   
 
 const Parallax = props => {

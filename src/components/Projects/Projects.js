@@ -80,9 +80,7 @@ export default class Projects extends Component {
         </div>
         <div className="row">
           <p>
-            The projects being displayed above are fully funcitional and
-            deployed, please feel free to have a look at the them and follow the
-            corresponding links by clicking on the title!
+          Clicking on the image title will take you to the deployed application. You can also check my github repository for each project.
           </p>
         </div>
       </div>

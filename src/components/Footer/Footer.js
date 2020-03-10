@@ -7,9 +7,9 @@ function Footer() {
       <div className="container">
         <div className="row">
           <div className="col l6 s12">
-            <h5 className="white-text">Footer Content</h5>
+            <h5 className="white-text">Jorge A. Lopez</h5>
             <p className="grey-text text-lighten-4">
-              You can use rows and columns here to organize your footer content.
+              Mesa, AZ 85205
             </p>
           </div>
           <div className="col l4 offset-l2 s12">
