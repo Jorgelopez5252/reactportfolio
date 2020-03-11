@@ -1,3 +1,7 @@
-.parallax-container { 
-    width: 100%;
- };
+.parallax {
+  height: 41vh;
+}
+ 
+/* .section {
+  margin-bottom: 20px;
+} */

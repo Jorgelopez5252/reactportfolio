@@ -29,7 +29,7 @@ export default class Projects extends Component {
                       City2City
                     </a>
                   </h3>
-                  <h5 className="light yellow-text text-lighten-3">
+                  <h5 className="light purple-text text-lighten-3">
                     Group Project
                   </h5>
                 </div>
@@ -45,7 +45,7 @@ export default class Projects extends Component {
                       Tempus
                     </a>
                   </h3>
-                  <h5 className="light yellow-text text-lighten-3">
+                  <h5 className="light purple-text text-lighten-3">
                     Group Project
                   </h5>
                 </div>
@@ -61,7 +61,7 @@ export default class Projects extends Component {
                       Note Taker
                     </a>
                   </h3>
-                  <h5 className="light yellow-text text-lighten-3">
+                  <h5 className="light purple-text text-lighten-3">
                     Individual project
                   </h5>
                 </div>
