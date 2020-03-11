@@ -4,7 +4,7 @@ import './Landing.css';
 
 function Landing() {
   return (
-    <div className="container"> 
+    <div className="container is-fluid"> 
       <Parallax
         paragraph="Full Stack Web Developer with a background in Banking/Financing and life-long dedication to learning. Effective at combining creativity and problem solving to develop user-friendly applications. Known among staff for strong wit and attention to detail no matter the complexity of the project."
         title="Jorge Antonio Lopez"
