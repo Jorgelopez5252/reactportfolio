@@ -8,7 +8,7 @@ function Landing() {
       <Parallax
         paragraph="Full Stack Web Developer with a background in Banking/Financing and life-long dedication to learning. Effective at combining creativity and problem solving to develop user-friendly applications. Known among staff for strong wit and attention to detail no matter the complexity of the project."
         title="Jorge Antonio Lopez"
-        url="https://github.com/Jorgelopez5252/reactportfolio/blob/master/public/images/cardinalstadium.jpg?raw=true"
+        url="https://scontent.fphx1-2.fna.fbcdn.net/v/t1.0-9/21231231_1673184466027019_4802291841130913650_n.jpg?_nc_cat=102&_nc_sid=110474&_nc_ohc=EEcJOpvoU3kAX9eX0V6&_nc_ht=scontent.fphx1-2.fna&oh=8cacf6f00ff0c66938ab07cb90fce242&oe=5E96D9F4"
       />
 
       <Parallax
@@ -24,9 +24,9 @@ function Landing() {
       />
 
       <Parallax
-        paragraph="JSX, Rendering Elements, Great Understanding of Components and Props as well as State and hooks ."
+        paragraph="JSX, Rendering Elements, Great Understanding of Components and Props as well as State."
         title="React.js"
-        url="https://github.com/Jorgelopez5252/reactportfolio/blob/master/public/images/React-logo.jpg?raw=true"
+        url="https://github.com/Jorgelopez5252/reactportfolio/blob/master/public/images/Capture.PNG?raw=true"
       />
       
     </div>
