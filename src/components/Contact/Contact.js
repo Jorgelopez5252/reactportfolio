@@ -9,20 +9,14 @@ function Contact() {
         <div class="col s6">
           <h2>About me</h2>
           <p>
-            I was born in San Diego, California but moved to Mesa, Arizona when
-            I was 7 years old and you could say I am a native here at this
-            point. I am very passionate about working with others, the
-            collaboration of many ideas fills my passion on being a Full Stack
-            Web Developer. I am no stranger to the weird and uncomfortable, and
-            I feel the best way to learn is to place yourself in the unfamiliar
-            and unknown as your own results can and will surprise you!
+          I was born in San Diego, California but moved to Mesa, Arizona when I was 7 years old, you can say I am a native here at this point! I recently graduated UofA Full Stack Web Developer coding course, and excited to put my skills out in the field. My background currently is in Banking/Financing where I'm known for my creative and effective problem solving skills to develop user-friendly applications as well as my strong teamwork and attention to detail no matter the complexity of the project.
           </p>
 
 
-          <h3>Contact</h3>
+          <h3>Known Technologies</h3>
           <ul>
-            <li>Phone Number: 480-494-7438</li>
-            <li>Email: Jorgelopez5252@gmail.com</li>
+            <li>HTML5, CSS, Javascript, JQuery, Bootstrap, Bulma, Nodejs, MySQL, MongoDB, Express, Handelbars.js</li>
+            <li>React.js, JSX, Components, Props and State.</li>
           </ul>
         </div>
 
