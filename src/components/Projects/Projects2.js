@@ -57,7 +57,7 @@ function Projects2() {
 
       <div className="row">
         <div className="col l6">
-          <h2>Tempus </h2>
+          <h2>Tempus Werx</h2>
 
           <img
             className="projectImage"
@@ -158,11 +158,11 @@ function Projects2() {
 
       <div className="row">
         <div className="col l6">
-          <h2>Daily-Planner </h2>
+          <h2>Day Schedular</h2>
 
           <img
             className="projectImage"
-            src="https://assets.fellowes.com/documents/IdeaCenter/us/en/business/organization/Planners/daily-schedule-planner/preview.png"
+            src="https://github.com/Jorgelopez5252/reactportfolio/blob/master/public/images/daily%20planner.gif?raw=true"
             alt="mock"
           />
         </div>
