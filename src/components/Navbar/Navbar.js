@@ -6,7 +6,7 @@ function Navbar() {
     <nav>
       <div className="nav-wrapper">
         {/* <a href="/" className="brand-logo">Portfolio</a> */}
-        <ul id="nav-mobile" className="left">
+        <ul id="nav" className="left">
           <li>
             <a href="/">Home</a>
           </li>

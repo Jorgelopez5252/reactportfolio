@@ -5,7 +5,7 @@ function Projects2() {
   return (
     <div className="container">
       <div className="row">
-        <div className="col s6">
+        <div className="col l6">
           <h2>City 2 City</h2>
           <img
             className="projectImage"
@@ -14,15 +14,16 @@ function Projects2() {
           />
         </div>
 
-        <div className="col s6">
+        <div className="col l6">
           <br />
           <h4>Tech Used</h4>
 
-          <li>HTML/ CSS/ JAVASCRIPT/ jQUERY/ AJAX</li>
+          <li>HTML/CSS/JAVASCRIPT/jQUERY/AJAX</li>
           <li>
-            Bulma - CSS Framework, Teleport - City Data API, Open Weather -
-            Weather API
+            Bulma-CSS Framework, Teleport-City Data API
           </li>
+          <li>Open Weather -
+            Weather API</li>
           <p>
             This project is designed to compare data between two cities. Data
             like relative housing costs, quality of life, commutes and more. The
@@ -46,7 +47,7 @@ function Projects2() {
               target="blank"
             >
               <li>
-                Deployed:<strong className="repoLinks">"Click Here"</strong>
+                Deployed Link:<strong className="repoLinks">"Click Here"</strong>
               </li>
             </a>
           </ul>
@@ -55,8 +56,8 @@ function Projects2() {
       {/* above is good and used for template */}
 
       <div className="row">
-        <div className="col s6">
-          <h2>Tempus Werx </h2>
+        <div className="col l6">
+          <h2>Tempus </h2>
 
           <img
             className="projectImage"
@@ -65,14 +66,15 @@ function Projects2() {
           />
         </div>
 
-        <div className="col s6">
+        <div className="col l6">
           <br />
           <h4>Tech Used</h4>
 
-          <li>HTML/CSS/JAVASCRIPT/HANDLEBARS/NODE.JS/Sequelize</li>
+          <li>HTML/CSS/JAVASCRIPT/NODE.JS</li>
           <li>
-            Bulma - CSS Framework, Font Awesome - CSS Framework​,
-            Passport.js-Authentication
+            Bulma - CSS Framework,Sequelize
+            <li> Font Awesome-CSS Framework​</li>
+            <li>Passport.js-Authentication</li>
           </li>
           <p>
             This project is designed to keep track of Employee Data for any
@@ -94,7 +96,7 @@ function Projects2() {
               target="blank"
             >
               <li>
-                Deployed:<strong className="repoLinks">"Click Here"</strong>
+                Deployed Link:<strong className="repoLinks">"Click Here"</strong>
               </li>
             </a>
           </ul>
@@ -102,7 +104,7 @@ function Projects2() {
       </div>
 
       <div className="row">
-        <div className="col s6">
+        <div className="col l6">
           <h2>Note Taker </h2>
 
           <img
@@ -112,15 +114,15 @@ function Projects2() {
           />
         </div>
 
-        <div className="col s6">
+        <div className="col l6">
           <br />
           <h4>Tech Used</h4>
 
-          <li>HTML/ CSS/ JAVASCRIPT/ jQUERY/ API calls</li>
+          <li>HTML/CSS/JAVASCRIPT/jQUERY/API calls</li>
           <li>
-            Bootstrap - CSS Framework, Font Awesome - CSS Framework , JQuery -
-            Javascript Language​
+            Bootstrap - CSS Framework
           </li>
+          <li>Font Awesome - CSS Framework</li>
           <p>
             This is a simple Note taker app that is powered with Jquery and can
             save notes and store them .The application uses both api and ajax
@@ -147,7 +149,7 @@ function Projects2() {
               target="blank"
             >
               <li>
-                Deployed:<strong className="repoLinks">"Click Here"</strong>
+                Deployed Link:<strong className="repoLinks">"Click Here"</strong>
               </li>
             </a>
           </ul>
@@ -155,7 +157,7 @@ function Projects2() {
       </div>
 
       <div className="row">
-        <div className="col s6">
+        <div className="col l6">
           <h2>Daily-Planner </h2>
 
           <img
@@ -165,15 +167,15 @@ function Projects2() {
           />
         </div>
 
-        <div className="col s6">
+        <div className="col l6">
           <br />
           <h4>Tech Used</h4>
 
-          <li>HTML/ CSS/ JAVASCRIPT/ jQUERY</li>
+          <li>HTML/CSS/JAVASCRIPT/jQUERY</li>
           <li>
-            Bootstrap - CSS Framework, Font Awesome - CSS Framework , JQuery -
-            Javascript Language​
+            Bootstrap-CSS Framework 
           </li>
+          <li> Font Awesome-CSS Framework</li>
           <p>
           This planner allows users to save and track their day to day task by the hour. The time will be highlighted showing the current hour or task at hand and users can save new tasks or delete them. This application was one of my first experiences using local storage in the browser and certainly one I learned the most. 
           </p>
@@ -191,7 +193,7 @@ function Projects2() {
               target="blank"
             >
               <li>
-                Deployed:<strong className="repoLinks">"Click Here"</strong>
+                Deployed Link:<strong className="repoLinks">"Click Here"</strong>
               </li>
             </a>
           </ul>
