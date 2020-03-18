@@ -9,7 +9,7 @@ function Projects2() {
           <h2>City 2 City</h2>
           <img
             className="projectImage"
-            src="https://images-na.ssl-images-amazon.com/images/I/71vXyyrr6mL._SL1200_.jpg"
+            src="https://github.com/Jorgelopez5252/reactportfolio/blob/master/public/images/city2citygif.gif?raw=true"
             alt="mock"
           />
         </div>
@@ -61,7 +61,7 @@ function Projects2() {
 
           <img
             className="projectImage"
-            src="https://www.fermag.com/ext/resources/images/Punching-the-clock.jpg?1554225101"
+            src="https://github.com/Jorgelopez5252/reactportfolio/blob/master/public/images/tempusgif.gif?raw=true"
             alt="mock"
           />
         </div>
@@ -109,7 +109,7 @@ function Projects2() {
 
           <img
             className="projectImage"
-            src="https://lh3.googleusercontent.com/cJValhAQ8honF9MrmSNvl8VcnsPvzfVjyseZQ7i99SUIE8cSDACTV7bn7BUKLzLSazk"
+            src="https://github.com/Jorgelopez5252/reactportfolio/blob/master/public/images/notetakergif.gif?raw=true"
             alt="mock"
           />
         </div>
